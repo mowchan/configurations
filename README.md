@@ -12,6 +12,7 @@
 ### code quality
 * [csslint](https://atom.io/packages/csslint)
 * [csscomb](https://atom.io/packages/csscomb) – normalize css conventions, [ruleset](https://github.com/mowchan/configurations/blob/master/.csscomb.json)
+* [linter](https://github.com/steelbrain/linter#how-to--installation)
 * [linter-jshint](https://atom.io/packages/linter-jshint)
 
 ### useful enhancements
